@@ -1,5 +1,5 @@
-# My ASR Lab
-This is a repository for my ASR lab. It contains the following files:
+# EE 225D: My ASR Lab
+This is a repository for the EE 225D ASR lab. It contains the following files:
 - `README.md`: This file.
 - `collect_speech.py`: A script to collect speech data.
 - `split_data.py`: A script to split the collected data into subsets.
